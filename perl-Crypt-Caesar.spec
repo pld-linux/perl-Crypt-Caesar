@@ -19,7 +19,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This module is based on the caesar program from the bsd-games package,
 made by Stan King and John Eldridge, based on the algorithm suggested
 by Bob Morris.
-	    
+
 %description -l pl
 Ten modu³ bazuje ma programie caesar z pakietu bsd-games, napisanym
 przez Stana Kinga i Johna Eldridge'a, bazuj±c na algorytmie
@@ -30,7 +30,7 @@ zasugerowanym przez Boba Morrisa.
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 
 %install
