@@ -5,12 +5,12 @@ Summary:	Crypt::Caesar Perl module - decrypt rot-N strings
 Summary(pl):	Modu³ Perla Crypt::Caesar - odszyfrowuj±cy ci±gi znaków w rot-N
 Name:		perl-Crypt-Caesar
 Version:	0.01
-Release:	1
+Release:	2
 License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 BuildRequires:	perl >= 5.6
-BuildRequires:	rpm-perlprov >= 3.0.3-16
+BuildRequires:	rpm-perlprov >= 4.0.2-104
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
