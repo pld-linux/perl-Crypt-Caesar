@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
-%define		pdir	Crypt
-%define		pnam	Caesar
+%define	pdir	Crypt
+%define	pnam	Caesar
 Summary:	Crypt::Caesar Perl module - decrypt rot-N strings
 Summary(pl):	Modu³ Perla Crypt::Caesar - odszyfrowuj±cy ci±gi znaków w rot-N
 Name:		perl-Crypt-Caesar
