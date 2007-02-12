@@ -2,7 +2,7 @@
 %define		pdir	Crypt
 %define		pnam	Caesar
 Summary:	Crypt::Caesar Perl module - decrypt rot-N strings
-Summary(pl):	Modu³ Perla Crypt::Caesar - odszyfrowuj±cy ci±gi znaków w rot-N
+Summary(pl.UTF-8):   ModuÅ‚ Perla Crypt::Caesar - odszyfrowujÄ…cy ciÄ…gi znakÃ³w w rot-N
 Name:		perl-Crypt-Caesar
 Version:	0.01
 Release:	3
@@ -20,9 +20,9 @@ This module is based on the caesar program from the bsd-games package,
 made by Stan King and John Eldridge, based on the algorithm suggested
 by Bob Morris.
 
-%description -l pl
-Ten modu³ bazuje ma programie caesar z pakietu bsd-games, napisanym
-przez Stana Kinga i Johna Eldridge'a, bazuj±c na algorytmie
+%description -l pl.UTF-8
+Ten moduÅ‚ bazuje ma programie caesar z pakietu bsd-games, napisanym
+przez Stana Kinga i Johna Eldridge'a, bazujÄ…c na algorytmie
 zasugerowanym przez Boba Morrisa.
 
 %prep
