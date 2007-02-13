@@ -2,7 +2,7 @@
 %define		pdir	Crypt
 %define		pnam	Caesar
 Summary:	Crypt::Caesar Perl module - decrypt rot-N strings
-Summary(pl.UTF-8):   Moduł Perla Crypt::Caesar - odszyfrowujący ciągi znaków w rot-N
+Summary(pl.UTF-8):	Moduł Perla Crypt::Caesar - odszyfrowujący ciągi znaków w rot-N
 Name:		perl-Crypt-Caesar
 Version:	0.01
 Release:	3
